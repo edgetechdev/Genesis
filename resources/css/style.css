@@ -180,6 +180,36 @@ a:active {
 }
 
 .main-nav li a:hover,
-.amin-nav li a:active {
+.main-nav li a:active {
     border-bottom: 2px solid #e67e22;
+}
+
+.long-copy {
+    line-height: 145%;
+    width: 70%;
+    margin-left: 15%;
+    text-align-last: center;
+}
+
+.icon-big {
+    font-size: 330%;
+    display: block;
+    color: #e67e22;
+    margin-bottom: 10px;
+}
+
+.box p{
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    font-size: 90%;
+    line-height: 145%;  
+}
+
+.section-features .long-copy {
+    margin-bottom: 30px;
+}
+
+.section-features{
+    margin-top: 50px;
 }
